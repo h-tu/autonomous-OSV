@@ -21,7 +21,7 @@ For all the information throughout the whole building process in the final repor
 For the detailed control decision tree and animation, go to here: 
 [Animation](https://github.com/h-tu/autonomous-OSV/blob/master/full%20animation.pptx)
 
-The full code is called debris.ino,you can find it in this repo.
+The full code is called debris.ino, you can find it in this repo.
 
 ------
 
